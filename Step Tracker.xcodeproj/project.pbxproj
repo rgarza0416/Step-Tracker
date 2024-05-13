@@ -10,6 +10,7 @@
 		FA636C452BEBFD0F0018D208 /* HealthDataListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA636C442BEBFD0F0018D208 /* HealthDataListView.swift */; };
 		FACE43AA2BF06FE900DE50E8 /* HealthKitPermissionPrimingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FACE43A92BF06FE900DE50E8 /* HealthKitPermissionPrimingView.swift */; };
 		FACE43AD2BF0780600DE50E8 /* HealthKitManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = FACE43AC2BF0780600DE50E8 /* HealthKitManager.swift */; };
+		FACE43AF2BF1D2C300DE50E8 /* HealthMetric.swift in Sources */ = {isa = PBXBuildFile; fileRef = FACE43AE2BF1D2C300DE50E8 /* HealthMetric.swift */; };
 		FAF3BE7A2BEADA7400EDE1B5 /* Step_TrackerApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAF3BE792BEADA7400EDE1B5 /* Step_TrackerApp.swift */; };
 		FAF3BE7C2BEADA7400EDE1B5 /* DashboardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAF3BE7B2BEADA7400EDE1B5 /* DashboardView.swift */; };
 		FAF3BE7E2BEADA7500EDE1B5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FAF3BE7D2BEADA7500EDE1B5 /* Assets.xcassets */; };
@@ -21,6 +22,7 @@
 		FACE43A92BF06FE900DE50E8 /* HealthKitPermissionPrimingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HealthKitPermissionPrimingView.swift; sourceTree = "<group>"; };
 		FACE43AB2BF0764400DE50E8 /* Step Tracker.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = "Step Tracker.entitlements"; sourceTree = "<group>"; };
 		FACE43AC2BF0780600DE50E8 /* HealthKitManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HealthKitManager.swift; sourceTree = "<group>"; };
+		FACE43AE2BF1D2C300DE50E8 /* HealthMetric.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HealthMetric.swift; sourceTree = "<group>"; };
 		FAF3BE762BEADA7400EDE1B5 /* Step Tracker.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Step Tracker.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		FAF3BE792BEADA7400EDE1B5 /* Step_TrackerApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Step_TrackerApp.swift; sourceTree = "<group>"; };
 		FAF3BE7B2BEADA7400EDE1B5 /* DashboardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DashboardView.swift; sourceTree = "<group>"; };
@@ -63,6 +65,7 @@
 				FACE43AC2BF0780600DE50E8 /* HealthKitManager.swift */,
 				FAF3BE7B2BEADA7400EDE1B5 /* DashboardView.swift */,
 				FA636C442BEBFD0F0018D208 /* HealthDataListView.swift */,
+				FACE43AE2BF1D2C300DE50E8 /* HealthMetric.swift */,
 				FACE43A92BF06FE900DE50E8 /* HealthKitPermissionPrimingView.swift */,
 				FAF3BE7D2BEADA7500EDE1B5 /* Assets.xcassets */,
 				FAF3BE7F2BEADA7500EDE1B5 /* Preview Content */,
@@ -153,6 +156,7 @@
 				FAF3BE7A2BEADA7400EDE1B5 /* Step_TrackerApp.swift in Sources */,
 				FACE43AD2BF0780600DE50E8 /* HealthKitManager.swift in Sources */,
 				FACE43AA2BF06FE900DE50E8 /* HealthKitPermissionPrimingView.swift in Sources */,
+				FACE43AF2BF1D2C300DE50E8 /* HealthMetric.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
